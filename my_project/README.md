@@ -1,8 +1,8 @@
 # Проект 0. Угадай число
 
 ## Оглавление  
-[1. Описание проекта](https://github.com/Aleksyes/Myskillfaktory/tree/main/my_project.README.md#ОУгадать загаданное компьютером число за минимальное число попыток.)  
-[2. Какой кейс решаем?](https://github.com/Aleksyes/Myskillfaktory/tree/main/my_project..README.md#Нужно написать программу, которая угадывает число за минимальное число попыток)  
+[1. Описание проекта](https://github.com/Aleksyes/Myskillfaktory/tree/main/my_project.README.md#Описание-проекта)  
+[2. Какой кейс решаем?](https://github.com/Aleksyes/Myskillfaktory/tree/main/my_project.README.md#Какой-кейс-решаем)  
 [3. Краткая информация о данных](https://github.com/Aleksyes/Myskillfaktory/tree/main/my_project.README.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](https://github.com/Aleksyes/Myskillfaktory/tree/main/my_project.README.md#Этапы-работы-над-проектом)  
 [5. Результат](https://github.com/Aleksyes/Myskillfaktory/tree/main/my_project.README.md#Результат)    
@@ -29,7 +29,7 @@
 
 
 ### Краткая информация о данных
-
+....
   
 :arrow_up:[к оглавлению](.README.md#Оглавление)
 
